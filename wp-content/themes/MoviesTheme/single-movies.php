@@ -23,9 +23,6 @@ get_header(); ?>
 					<?php } ?>
 				</div>
 				<div>
-					<?php the_field( 'title' ); ?>
-				</div>
-				<div>
 					<?php the_field( 'director_name' ); ?>
 				</div>
 			</section>
